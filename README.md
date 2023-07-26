@@ -62,4 +62,4 @@ print(Norm_of_matrix)
 ![output](/output07\)3..png)
 
 ## RESULT:
-Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
+Thus the program for 1-Norm, 2-Norm and Infinity norm of a matrix are written and verified.
